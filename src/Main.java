@@ -27,6 +27,7 @@ public class Main {
 			tList[i].setOwnerAddress("ohio");
 			System.out.println(tList[i].getOwnerAddress());
 		}
+		System.out.println("push test");
 	}	
 
 }
